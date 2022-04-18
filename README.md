@@ -11,5 +11,5 @@ ______
 
 <br>
 
-<div align="center"> <strong>Me mude al siguiente perfil: </strong> <br>
+<div align="center"> <strong>Mi perfil principal es: </strong> <br>
  &nbsp;<a href="https://github.com/isinicolle/">GitHub Nuevo</a></div>
